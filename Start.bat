@@ -1,1 +1,3 @@
-py Discord_Weapon.py
+@echo off
+cls
+py Discord_Tools.py
