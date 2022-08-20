@@ -9,5 +9,5 @@
 - Add Server widget info
 
 ##How to install:
-Click on Install Requirements.bat
-Then you can start by Start.bat
+- Click on Install Requirements.bat
+- Then you can start by Start.bat
