@@ -11,3 +11,5 @@
 ##How to install:
 - Click on Install Requirements.bat
 - Then you can start by Start.bat
+
+##Require the version 3.10.6 of python
